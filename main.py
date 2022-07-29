@@ -1,1 +1,1 @@
-print('Python first code')
+print('just for test')
